@@ -12,13 +12,3 @@
 
 ## Regular Expression Syntax
 * Regular expressions are put between two forward slashes (/match_me/) 
-
-
-## Characters that needs to be escaped.
-
-* They are escaped with a backward slash \\\
-* Characters are:
-
-```
-. | ( ) [ ] { } + \ ^ $ * ?
-```
