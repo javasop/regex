@@ -26,7 +26,7 @@ result[:year] #1985
 * Write a pattern that will take a decimal number (ie: 3.4)
 * It captures the number in dollars and cents
 * display the dollars and cents in that number
-
+* You should modify the previous example
 ```ruby
 (?<month>\d{1,2})\/(?<day>\d{1,2})\/(?<year>\d{4})
 ```

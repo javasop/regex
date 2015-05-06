@@ -1,6 +1,5 @@
 ### Exercise
-
-* Find the pattern used to match the following:
+#### Find the pattern used to match the following:
 * s@sos a@aaa b@a
 * zzz@a.com zz@a.com
 * 12 3 23 31
