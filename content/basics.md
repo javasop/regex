@@ -16,19 +16,19 @@
 * . Any single character 
 * \s Any whitespace character 
 * \S Any non-whitespace character 
-* d Any digit 
-* D Any non-digit 
-* w Any word character (letter, number, underscore) 
-* W Any non-word character 
-* b Any word boundary character
+* \d Any digit 
+* \D Any non-digit 
+* \w Any word character (letter, number, underscore) 
+* \W Any non-word character 
+* \b Any word boundary character
 
 
 ## Groups
 * (...) Capture everything enclosed
 * (a|b) a or b 
 * ? Zero or one of a 
-* * Zero or more of a 
-* + One or more of a 
+* \* Zero or more of a 
+* \+ One or more of a 
 * {3} Exactly 3 of a 
 * {3,} 3 or more of a 
 * a{3,6} Between 3 and 6 of a
