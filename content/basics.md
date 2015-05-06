@@ -1,4 +1,4 @@
-## Regex Basics
+### Regex Basics
 
 * [abc] A single character: a, b or c 
 * [^abc] Any single character but a, b, or c 
@@ -11,7 +11,7 @@
 * \z End of string
 
 
-## Shortcuts
+### Shortcuts (meta characters)
 
 * . Any single character 
 * \s Any whitespace character 
@@ -23,7 +23,7 @@
 * \b Any word boundary character
 
 
-## Groups
+### Groups
 * (...) Capture everything enclosed
 * (a|b) a or b 
 * ? Zero or one of a 
@@ -34,7 +34,7 @@
 * a{3,6} Between 3 and 6 of a
 
 
-## Characters that needs to be escaped.
+### Characters that needs to be escaped.
 * They are escaped with a backward slash \\\
 * Characters are:
 
